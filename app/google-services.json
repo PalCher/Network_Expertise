@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591396273522",
+    "firebase_url": "https://networkexpertise-85a5d.firebaseio.com",
+    "project_id": "networkexpertise-85a5d",
+    "storage_bucket": "networkexpertise-85a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591396273522:android:bb82a242e0b74f4d",
+        "android_client_info": {
+          "package_name": "com.nexp.pavel.networkexpertise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591396273522-esbkav7cd9a6c22ujfj7qdm0u0p6q207.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexp.pavel.networkexpertise",
+            "certificate_hash": "8188842262e2a3a502e28145811e4f77fe35f1ad"
+          }
+        },
+        {
+          "client_id": "591396273522-ia473fs9c4jhcciefebr2rg1mpua32ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFYmNbNDljc7bErMrOEQdkzmLrXq5gi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591396273522-ia473fs9c4jhcciefebr2rg1mpua32ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

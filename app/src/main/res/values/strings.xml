@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NetworkExpertise</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+
+    <string name="tab_text_1">Главная</string>
+    <string name="tab_text_2">Время</string>
+    <string name="tab_text_3">Статистика</string>
+
+
+    <string name="text">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac leo vel risus lobortis vehicula. Etiam sodales nibh ut nisl feugiat, in porta ligula vestibulum. Fusce posuere felis lobortis eros feugiat dapibus. Nulla et est nunc. Pellentesque purus tellus, accumsan consequat consectetur ac, molestie et velit. Fusce condimentum bibendum fermentum. Nunc rhoncus lectus nec mauris consequat vehicula. Mauris consequat mi sem, in aliquet ex dignissim ac.
+
+Vivamus convallis nibh sit amet neque elementum, nec tincidunt magna mattis. Nulla eu vehicula metus, molestie tristique lectus. Nam mi ligula, posuere vitae lacus a, bibendum maximus tellus. Aliquam pellentesque, enim ut tristique tempor, purus sapien vehicula nibh, at sollicitudin tortor purus semper erat. Donec hendrerit sollicitudin diam, a commodo elit dictum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam non laoreet mi, ac sodales augue. Fusce bibendum interdum erat maximus pharetra. Quisque sapien magna, tempus ac mi ut, auctor condimentum nisi. Suspendisse condimentum euismod augue at tempus. Integer sodales lacinia ipsum. Sed id mauris eu est lobortis efficitur sit amet quis lorem.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis sit amet sodales eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ligula elit, cursus non pharetra id, consectetur sit amet sem. Nam eleifend eros ex, nec dictum elit vulputate ut. Curabitur mattis tristique urna ut facilisis. Sed eu dolor lobortis, euismod mauris vitae, sollicitudin sem. Vestibulum dictum vehicula diam, suscipit rutrum turpis gravida quis. Quisque tristique dapibus neque ac facilisis. Vivamus ex felis, mollis a nulla vel, consectetur placerat turpis. Pellentesque sit amet pellentesque libero. Praesent nulla nisi, tempus id malesuada vel, sodales et leo. Proin euismod ligula est, quis convallis ex congue euismod. Integer sit amet elementum magna, eu finibus nisi.
+
+Suspendisse vehicula felis odio, quis rhoncus ipsum viverra scelerisque. Maecenas ornare dui eget justo mattis gravida. Nulla maximus elementum leo, et commodo justo placerat et. Donec imperdiet justo nec diam rutrum, id varius dolor maximus. Cras scelerisque aliquam iaculis. Nulla maximus, turpis et gravida mattis, ante justo tempus mauris, et consequat urna lacus in augue. Nulla at diam nec ex eleifend gravida at ultricies justo. Etiam eget lectus quis turpis imperdiet sodales ac vel felis. Nullam elementum finibus pharetra. Nullam faucibus nisl orci, at pretium metus maximus id.
+
+Vestibulum mattis sagittis metus, at maximus nunc. Aenean blandit tellus et leo molestie, vitae mattis diam auctor. Praesent a erat non risus pretium sollicitudin at quis odio. Sed malesuada condimentum sagittis. Quisque a nisi porttitor, feugiat elit quis, fermentum nibh. Ut elementum ligula ut scelerisque lobortis. Nam at tellus eu dui tempus scelerisque. Curabitur gravida nibh ligula, non scelerisque massa sagittis non. Nullam pulvinar odio a odio fermentum bibendum. Aliquam blandit ex id dui malesuada tincidunt. Quisque orci est, convallis et mattis vel, pulvinar vel nibh. </string>
+    <string name="app_title">Сетевая экспертиза</string>
+</resources>
